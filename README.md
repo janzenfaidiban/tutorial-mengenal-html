@@ -25,7 +25,7 @@ Ikuti video tutorial di Youtube : <br>
 [YOUTUBE TUTORIAL](https://youtu.be/r7nrMk6XuvY)
 
 ## SPEAKER
-Janzen Faidiban
-IG : janzen.faidiban
-LikedIn : https://www.linkedin.com/in/janzen-faidiban
-Work : www.nokensoft.com
+Janzen Faidiban <br>
+IG : janzen.faidiban <br>
+LikedIn : https://www.linkedin.com/in/janzen-faidiban <br>
+Work : www.nokensoft.com <br>
